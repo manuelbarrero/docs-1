@@ -19,7 +19,7 @@ Basic configuration keys:
 
 ## Styles And Scripts
 
-Styles and Scripts can easily be added to your the application:
+Styles and Scripts can easily be added to your application:
 
 ```php
 use Ignite\Support\Facades\Lit;
