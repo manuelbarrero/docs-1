@@ -27,7 +27,7 @@ class NavigationConfig extends Config
 
 ### Topbar
 
-The **topbar** navigation is meant for managing less important part sof your
+The **topbar** navigation is meant for managing less important part of your
 application, such as language and/or permissions.
 
 ### Main
